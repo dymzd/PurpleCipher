@@ -1,3 +1,8 @@
+# Purple cipher machine made in Python 3+ by Daiya Masuda
+# Please read Readme.md 
+# Code is a bit of mess but it works!
+# Run the program in python 3+ and simply follow the instructions.
+
 from builtins import input
 from collections import Counter
 import string
